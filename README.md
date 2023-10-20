@@ -32,6 +32,6 @@ If you have not worked with ATtiny85 before and need support with the basic oper
 
 GOOD LUCK & ENJOY BUILDING THIS COOL PROJECT !
 
-[1]: ADD YOU TUBE PROJECT LINK HERE https://youtu.be/lHvzVke-1bM
+[1]: https://youtube.com/shorts/ZjaUvpx15PA?feature=share
 
 [2]: https://circuitdigest.com/microcontroller-projects/programming-attiny85-microcontroller-ic-using-arduino 
