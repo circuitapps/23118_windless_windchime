@@ -36,4 +36,4 @@ GOOD LUCK & ENJOY BUILDING THIS COOL PROJECT !
 
 [2]: https://circuitdigest.com/microcontroller-projects/programming-attiny85-microcontroller-ic-using-arduino 
 
-[3]: file://attiny85_code/
+[3]: ./attiny85_code/
