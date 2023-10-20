@@ -5,7 +5,7 @@ This is one of the coolest projects we undertook up to date. It is about transfo
 
 Although we worked on a specific type of windchime (bought from a charity store!), the methods can easily be adapted to any windchime that is on a stand. The circuit diagram and the microcontroller code can be used directly without changing anything. You can even adapt and change the code if you like. Experimenting and trying new things is always a good thing!
 
-Following is the working circuit diagram you will need if you want to build this circuit. Notice we have included the coil that you will need in the circuit diagram as well for convenience. If you prefer to use other types of coils, please experiment and pick the one that works best for you.
+**[Here is the link to the full Arduino source code][3]** for this project. Following is the working circuit diagram you will need if you want to build this circuit. Notice we have included the coil that you will need in the circuit diagram as well for convenience. If you prefer to use other types of coils, please experiment and pick the one that works best for you.
 
 ![circuit diagram](./ATtiny85_coil_control_circuit.png)
 
@@ -35,3 +35,5 @@ GOOD LUCK & ENJOY BUILDING THIS COOL PROJECT !
 [1]: https://youtube.com/shorts/ZjaUvpx15PA?feature=share
 
 [2]: https://circuitdigest.com/microcontroller-projects/programming-attiny85-microcontroller-ic-using-arduino 
+
+[3]: file://attiny85_code/
